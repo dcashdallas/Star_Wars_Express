@@ -1,6 +1,6 @@
 Star Wars Express
 
-This is an application using node.js Express server. 
+This is an application using node.js Express. 
 
 The user can view the current characters, view all characters available, as well as add new characters as well. 
 
